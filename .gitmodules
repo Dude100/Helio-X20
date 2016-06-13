@@ -7,3 +7,6 @@
 [submodule "bionic"]
 	path = bionic
 	url = git@github.com:helio-x20-development-board/bionic.git
+[submodule "bootable"]
+	path = bootable
+	url = git@github.com:helio-x20-development-board/bootable.git
