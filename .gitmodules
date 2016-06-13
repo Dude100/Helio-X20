@@ -28,3 +28,6 @@
 [submodule "libcore"]
 	path = libcore
 	url = git@github.com:helio-x20-development-board/libcore.git
+[submodule "libnativehelper"]
+	path = libnativehelper
+	url = git@github.com:helio-x20-development-board/libnativehelper.git
