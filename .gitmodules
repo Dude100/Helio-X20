@@ -1,0 +1,3 @@
+[submodule "abi"]
+	path = abi
+	url = git@github.com:helio-x20-development-board/abi.git
