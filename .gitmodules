@@ -34,3 +34,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = git@github.com:helio-x20-development-board/hardware.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:helio-x20-development-board/docs.git
