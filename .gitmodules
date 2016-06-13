@@ -16,3 +16,6 @@
 [submodule "dalvik"]
 	path = dalvik
 	url = git@github.com:helio-x20-development-board/dalvik.git
+[submodule "device"]
+	path = device
+	url = git@github.com:helio-x20-development-board/device.git
