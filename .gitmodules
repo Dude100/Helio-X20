@@ -52,3 +52,6 @@
 [submodule "tools"]
 	path = tools
 	url = git@github.com:helio-x20-development-board/tools.git
+[submodule "sdk"]
+	path = sdk
+	url = git@github.com:helio-x20-development-board/sdk.git
