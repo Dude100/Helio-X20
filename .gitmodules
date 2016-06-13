@@ -31,3 +31,6 @@
 [submodule "libnativehelper"]
 	path = libnativehelper
 	url = git@github.com:helio-x20-development-board/libnativehelper.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:helio-x20-development-board/hardware.git
