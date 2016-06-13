@@ -46,3 +46,6 @@
 [submodule "ndk"]
 	path = ndk
 	url = git@github.com:helio-x20-development-board/ndk.git
+[submodule "system"]
+	path = system
+	url = git@github.com:helio-x20-development-board/system.git
