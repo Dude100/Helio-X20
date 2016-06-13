@@ -10,3 +10,6 @@
 [submodule "bootable"]
 	path = bootable
 	url = git@github.com:helio-x20-development-board/bootable.git
+[submodule "build"]
+	path = build
+	url = git@github.com:helio-x20-development-board/build.git
