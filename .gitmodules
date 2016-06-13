@@ -43,3 +43,6 @@
 [submodule "platform_testing"]
 	path = platform_testing
 	url = git@github.com:helio-x20-development-board/platform_testing.git
+[submodule "ndk"]
+	path = ndk
+	url = git@github.com:helio-x20-development-board/ndk.git
