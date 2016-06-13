@@ -22,3 +22,6 @@
 [submodule "developers"]
 	path = developers
 	url = git@github.com:helio-x20-development-board/developers.git
+[submodule "development"]
+	path = development
+	url = git@github.com:helio-x20-development-board/development.git
