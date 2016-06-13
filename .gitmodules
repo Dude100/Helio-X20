@@ -1,3 +1,6 @@
 [submodule "abi"]
 	path = abi
 	url = git@github.com:helio-x20-development-board/abi.git
+[submodule "art"]
+	path = art
+	url = git@github.com:helio-x20-development-board/art.git
