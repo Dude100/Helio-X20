@@ -25,3 +25,6 @@
 [submodule "development"]
 	path = development
 	url = git@github.com:helio-x20-development-board/development.git
+[submodule "libcore"]
+	path = libcore
+	url = git@github.com:helio-x20-development-board/libcore.git
