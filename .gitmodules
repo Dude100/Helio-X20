@@ -49,3 +49,6 @@
 [submodule "system"]
 	path = system
 	url = git@github.com:helio-x20-development-board/system.git
+[submodule "tools"]
+	path = tools
+	url = git@github.com:helio-x20-development-board/tools.git
