@@ -40,3 +40,6 @@
 [submodule "pdk"]
 	path = pdk
 	url = git@github.com:helio-x20-development-board/pdk.git
+[submodule "platform_testing"]
+	path = platform_testing
+	url = git@github.com:helio-x20-development-board/platform_testing.git
