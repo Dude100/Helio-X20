@@ -13,3 +13,6 @@
 [submodule "build"]
 	path = build
 	url = git@github.com:helio-x20-development-board/build.git
+[submodule "dalvik"]
+	path = dalvik
+	url = git@github.com:helio-x20-development-board/dalvik.git
