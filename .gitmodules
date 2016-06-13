@@ -37,3 +37,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:helio-x20-development-board/docs.git
+[submodule "pdk"]
+	path = pdk
+	url = git@github.com:helio-x20-development-board/pdk.git
