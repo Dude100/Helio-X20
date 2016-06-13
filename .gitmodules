@@ -19,3 +19,6 @@
 [submodule "device"]
 	path = device
 	url = git@github.com:helio-x20-development-board/device.git
+[submodule "developers"]
+	path = developers
+	url = git@github.com:helio-x20-development-board/developers.git
