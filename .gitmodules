@@ -64,3 +64,6 @@
 [submodule "frameworks/webview"]
 	path = frameworks/webview
 	url = git@github.com:helio-x20-development-board/frameworks_webview.git
+[submodule "frameworks/volley"]
+	path = frameworks/volley
+	url = git@github.com:helio-x20-development-board/frameworks_volley.git
