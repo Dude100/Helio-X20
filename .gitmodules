@@ -70,3 +70,6 @@
 [submodule "frameworks/support"]
 	path = frameworks/support
 	url = git@github.com:helio-x20-development-board/frameworks_support.git
+[submodule "frameworks/rs"]
+	path = frameworks/rs
+	url = git@github.com:helio-x20-development-board/frameworks_rs.git
