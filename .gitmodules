@@ -79,3 +79,6 @@
 [submodule "frameworks/native"]
 	path = frameworks/native
 	url = git@github.com:helio-x20-development-board/frameworks_native.git
+[submodule "frameworks/multidex"]
+	path = frameworks/multidex
+	url = git@github.com:helio-x20-development-board/frameworks_multidex.git
