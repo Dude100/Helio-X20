@@ -67,3 +67,6 @@
 [submodule "frameworks/volley"]
 	path = frameworks/volley
 	url = git@github.com:helio-x20-development-board/frameworks_volley.git
+[submodule "frameworks/support"]
+	path = frameworks/support
+	url = git@github.com:helio-x20-development-board/frameworks_support.git
