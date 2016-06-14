@@ -82,3 +82,6 @@
 [submodule "frameworks/multidex"]
 	path = frameworks/multidex
 	url = git@github.com:helio-x20-development-board/frameworks_multidex.git
+[submodule "frameworks/ml"]
+	path = frameworks/ml
+	url = git@github.com:helio-x20-development-board/frameworks_ml.git
