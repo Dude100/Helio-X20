@@ -76,3 +76,6 @@
 [submodule "frameworks/opt"]
 	path = frameworks/opt
 	url = git@github.com:helio-x20-development-board/frameworks_opt.git
+[submodule "frameworks/native"]
+	path = frameworks/native
+	url = git@github.com:helio-x20-development-board/frameworks_native.git
