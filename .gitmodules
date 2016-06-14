@@ -88,3 +88,9 @@
 [submodule "frameworks/minikin"]
 	path = frameworks/minikin
 	url = git@github.com:helio-x20-development-board/frameworks_minikin.git
+[submodule "frameworks/ex"]
+	path = frameworks/ex
+	url = git@github.com:helio-x20-development-board/frameworks_ex.git
+[submodule "frameworks/data-binding"]
+	path = frameworks/data-binding
+	url = git@github.com:helio-x20-development-board/frameworks_data-binding.git
