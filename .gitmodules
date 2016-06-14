@@ -58,3 +58,6 @@
 [submodule "packages"]
 	path = packages
 	url = git@github.com:helio-x20-development-board/packages.git
+[submodule "frameworks/wilhelm"]
+	path = frameworks/wilhelm
+	url = git@github.com:helio-x20-development-board/frameworks_wilhelm.git
