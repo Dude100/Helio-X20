@@ -94,3 +94,6 @@
 [submodule "frameworks/data-binding"]
 	path = frameworks/data-binding
 	url = git@github.com:helio-x20-development-board/frameworks_data-binding.git
+[submodule "frameworks/compile"]
+	path = frameworks/compile
+	url = git@github.com:helio-x20-development-board/frameworks_compile.git
