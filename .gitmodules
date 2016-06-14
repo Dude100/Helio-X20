@@ -100,3 +100,6 @@
 [submodule "frameworks/av"]
 	path = frameworks/av
 	url = git@github.com:helio-x20-development-board/frameworks_av.git
+[submodule "vendor/amt"]
+	path = vendor/amt
+	url = git@github.com:helio-x20-development-board/vendor_amt.git
