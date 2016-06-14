@@ -85,3 +85,6 @@
 [submodule "frameworks/ml"]
 	path = frameworks/ml
 	url = git@github.com:helio-x20-development-board/frameworks_ml.git
+[submodule "frameworks/minikin"]
+	path = frameworks/minikin
+	url = git@github.com:helio-x20-development-board/frameworks_minikin.git
