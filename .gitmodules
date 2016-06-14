@@ -55,3 +55,6 @@
 [submodule "sdk"]
 	path = sdk
 	url = git@github.com:helio-x20-development-board/sdk.git
+[submodule "packages"]
+	path = packages
+	url = git@github.com:helio-x20-development-board/packages.git
