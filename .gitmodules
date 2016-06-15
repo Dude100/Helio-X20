@@ -103,3 +103,6 @@
 [submodule "vendor/amt"]
 	path = vendor/amt
 	url = git@github.com:helio-x20-development-board/vendor_amt.git
+[submodule "cts"]
+	path = cts
+	url = git@github.com:helio-x20-development-board/cts.git
